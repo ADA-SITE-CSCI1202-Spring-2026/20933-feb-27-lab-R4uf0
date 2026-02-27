@@ -39,4 +39,6 @@ public class MathDemo {
         }
         return result;
     }
+
+    //Making the methods static allows you to call them without creating an object, saves memory, and is ideal for utility methods that don’t use instance data.
 }
